@@ -1,6 +1,6 @@
 Twitter API Sample Responses, in Python
-*Intended to be used as mock objects for tests.*
 =========================================
+*Intended to be used as mock objects for tests.*
 
 I found the lack of documentation on different responses to be frustrating when first working with the Twitter Streaming API, so I started collecting responses for easy reference to help build my bots.
 
